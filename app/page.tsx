@@ -65,8 +65,8 @@ const content = {
   en: {
     navItems: ["Home", "About", "Services", "Packages", "Team", "Gallery"],
     appointment: "Book an appointment",
-    eyebrow: "Premium grooming studio",
-    title: "Elevate Your Style",
+    eyebrow: "Men's Grooming Lounge",
+    title: "Wear Your Confidence",
     intro:
       "Modern cuts, signature shaves, and calm care in a black and gold space designed for comfort, confidence, and everyday polish.",
     bookButton: "Book appointment",
@@ -356,7 +356,7 @@ const content = {
     navItems: ["হোম", "আমাদের সম্পর্কে", "সার্ভিস", "প্যাকেজ", "টিম", "গ্যালারি"],
     appointment: "অ্যাপয়েন্টমেন্ট বুক করুন",
     eyebrow: "প্রিমিয়াম গ্রুমিং স্টুডিও",
-    title: "আপনার স্টাইলকে আরও উন্নত করুন",
+    title: "স্টাইলে ফুটে উঠুক আত্মবিশ্বাস",
     intro:
       "মডার্ন হেয়ার কাট, সিগনেচার শেভ এবং আরামদায়ক যত্ন, সবকিছুই কালো ও গোল্ড প্রিমিয়াম পরিবেশে।",
     bookButton: "অ্যাপয়েন্টমেন্ট বুক করুন",
